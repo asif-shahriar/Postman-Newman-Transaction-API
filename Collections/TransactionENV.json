@@ -1,0 +1,33 @@
+{
+	"id": "d3ac6917-06ea-4796-85b8-8993cad5108b",
+	"name": "TransactionENV",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://dmoney.professionaltrainingbd.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "secretAuthKey",
+			"value": "ROADTOSDET",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbG1hbnNyYWJvbkBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjEyMzQiLCJpYXQiOjE2NDM0ODQ4OTgsImV4cCI6MTY0MzQ4NjY5OH0.pPkKjvjHxa3Zik5bGeh1xIFdBJ3NDYLikU6fGY6r2OE",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "phone_number",
+			"value": "01527421466",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-02-02T11:11:51.678Z",
+	"_postman_exported_using": "Postman/9.11.0"
+}
